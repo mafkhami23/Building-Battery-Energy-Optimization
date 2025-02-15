@@ -6,4 +6,5 @@ This repository contains code that aims to optimize energy consumption and cost 
 # Introduction
 
 The optimization of energy consumption and cost savings has become crucial in today's world. This project aims to address this challenge by leveraging the power of PV systems, battery storage, and intelligent grid management. The code takes into account various factors such as energy generation from PV, energy demand, battery capacity, and electricity tariffs to devise an optimized strategy for energy usage.
+The graph below illustrates the battery storage levels throughout the day. The fluctuations represent an optimized scenario where the system interacts with the grid, considering the strategy of storing photovoltaic (PV) energy and selling excess electricity back to the grid to maximize efficiency and economic benefits.
 ![LDSD_2](https://github.com/user-attachments/assets/e2ce62d5-386a-4f03-bb74-ada50087c1c6)
